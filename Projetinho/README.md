@@ -1,0 +1,1 @@
+O projeto aqui é bem simples, eu pensei em criar um conversor de PDF para XML pois tem muitas coisas que usamos que precisamos mudar um PDF pronto para um XML de forma rápido.
